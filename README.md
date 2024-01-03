@@ -7,7 +7,7 @@ Hi, I'm Hrishabh Bhardwaj, a versatile developer passionate about building web a
 - 📘 Exploring advanced DSA topics, solving coding challenges on platforms like LeetCode and HackerRank.
 - 💬 Let's chat about front-end frameworks, back-end development, and efficient algorithmic solutions.
 
-[Include badges for your favorite web technologies, frameworks, programming languages, and DSA achievements]
+
 
 ## 🚀 Skills & Technologies
 
