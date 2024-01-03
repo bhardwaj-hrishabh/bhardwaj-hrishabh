@@ -11,10 +11,10 @@ Hi, I'm Hrishabh Bhardwaj, a versatile developer passionate about building web a
 
 ## 🚀 Skills & Technologies
 
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express.js
+- **Web Development:** HTML, CSS, TailwindCSS, JavaScript, React, Node.js, Express.js
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, VSCode
-- **Data Structures & Algorithms:** Arrays, Linked Lists, Trees, Stack, Queues, Sorting Algorithms, Dynamic Programming
+- **Data Structures & Algorithms:** Arrays, Linked Lists, Trees, Stack, Queues, Graph, Sorting Algorithms, Recursion & Backtracking, Dynamic Programming
 
 ## 📊 GitHub Stats
 
