@@ -20,6 +20,8 @@ Hi, I'm Hrishabh Bhardwaj, a versatile developer passionate about building web a
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhardwaj-hrishabh&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-GitHub-bhardwaj-hrishabh&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/hrishabh-bhardwaj-55aab7218/)
@@ -30,3 +32,5 @@ Hi, I'm Hrishabh Bhardwaj, a versatile developer passionate about building web a
 [Check out my portfolio]() for more details about my projects and experience. Still Working on PORTFOLIO
 
 🚀 Let's collaborate and build amazing things together!
+
+
