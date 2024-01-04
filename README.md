@@ -18,9 +18,9 @@ Hi, I'm Hrishabh Bhardwaj, a versatile developer passionate about building web a
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhardwaj-hrishabh&theme=omni)](https://git.io/streak-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=bhardwaj-hrishabh&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhardwaj-hrishabh&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+[![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=bhardwaj-hrishabh&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 🤝 Let's Connect
 
