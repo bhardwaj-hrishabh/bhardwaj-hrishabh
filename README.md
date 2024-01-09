@@ -20,7 +20,7 @@ Hi, I'm Hrishabh Bhardwaj, a versatile developer passionate about building web a
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=bhardwaj-hrishabh&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhardwaj-hrishabh&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhardwaj-hrishabh)](https://git.io/streak-stats)
 
 ## 🤝 Let's Connect
 
