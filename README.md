@@ -26,6 +26,7 @@ Hi, I'm Hrishabh Bhardwaj, a versatile developer passionate about building web a
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/hrishabh-bhardwaj-55aab7218/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/your-username)](https://twitter.com/its_hrishabh_)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/bhardwajhrishabh07/)
 
 ## 🌐 Portfolio
 
